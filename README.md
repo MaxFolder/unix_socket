@@ -14,8 +14,6 @@ example: /var/www/server.socket
 create server.php
 
 ```
- $settings = parse_ini_file('socket.ini');
-
  if (file_exists($settings['SOCK_FILE_PATH'])) {
       unlink($settings['SOCK_FILE_PATH']);
   }
@@ -34,7 +32,6 @@ create server.php
 
 create client.php
 ```
-$settings = parse_ini_file('socket.ini');
 
 $client = (new ClientSocketDataBuilder())
     ->setDomainServerSocketFilePath($settings['SOCK_FILE_PATH'])
