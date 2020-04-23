@@ -1,5 +1,13 @@
 {
-    "require": {
-        "predis/predis": "^1.1"
-    }
+    "name": "maxfolder/unix_socket",
+    "description": "unix socket",
+    "type": "library",
+    "authors": [
+        {
+            "name": "maxfolder",
+            "email": "maxfolder55@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {}
 }
