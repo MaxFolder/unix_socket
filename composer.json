@@ -2,6 +2,7 @@
     "name": "maxfolder/unix_socket",
     "description": "unix socket",
     "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "maxfolder",
