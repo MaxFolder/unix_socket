@@ -5,9 +5,9 @@
 <h1>Getting Started</h1>
 
 install:
-<p>composer require maxfolder/unix_socket</p>
+</p>composer require maxfolder/unix_socket</p>
 
-<p>set path to you socket file in socket.ini </p>
+<p>set path to your local socket file in socket.ini </p>
 
 example: /var/www/server.socket
 
