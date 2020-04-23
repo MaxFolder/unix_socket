@@ -1,13 +1,15 @@
-Unix Sockets
-Unix socket server with multiple clients
+<h1>Unix Sockets</h1>
 
-Getting Started
+<p>Unix socket server with multiple clients</p>
 
-composer require maxfolder/unix_socket
+<h1>Getting Started</h1>
 
-set path to you socket file in socket.ini
+install:
+<p>composer require maxfolder/unix_socket</p>
+
+<p>set path to you socket file in socket.ini </p>
 
 example: /var/www/server.socket
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+<h1>License</h1>
+<p>This project is licensed under the MIT License - see the LICENSE.md file for details</p>
