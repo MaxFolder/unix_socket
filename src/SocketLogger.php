@@ -1,6 +1,6 @@
 <?php
 
-namespace Classes;
+namespace Maxfolder\UnixSocket;
 
 class SocketLogger implements LogInterface {
 

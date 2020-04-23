@@ -1,7 +1,6 @@
 <?php
 
-namespace Classes;
-
+namespace Maxfolder\UnixSocket;
 
 use Throwable;
 

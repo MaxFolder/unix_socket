@@ -1,6 +1,8 @@
 <?php
 
-namespace Classes;
+
+namespace Maxfolder\UnixSocket;
+
 
 interface LogInterface {
     public function log($message);

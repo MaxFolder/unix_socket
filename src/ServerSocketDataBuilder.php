@@ -1,6 +1,7 @@
 <?php
 
-namespace Classes;
+
+namespace Maxfolder\UnixSocket;
 
 
 class ServerSocketDataBuilder {

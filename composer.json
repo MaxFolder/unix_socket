@@ -10,5 +10,7 @@
         }
     ],
     "license": "MIT",
-    "require": {}
+    "autoload": {
+        "psr-4": { "Maxfolder\\UnixSocket\\": "src/" }
+    }
 }
